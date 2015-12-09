@@ -1,7 +1,7 @@
 name: Gideondevilliers.com
 favicon: null
-layout_spectrum: 0.7897982487920672
-typography_spectrum: 0.04740360798314214
+layout_spectrum: 1
+typography_spectrum: 0.74571
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.2471122364513576
-  lightness: 0.28669323842041194
-  saturation: 0.611443433444947
-  rhythmicContrast: 0.8305321563966572
+    - '#eef2f1'
+    - '#9ea7a6'
+    - '#01080e'
+    - '#073956'
+    - '#b5795e'
+  brandStrength: 0.25
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
